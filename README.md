@@ -1,6 +1,9 @@
 #Pullword
 A Python package for [pullword.com] (http://pullword.com). 
 
+#Attention
+api.pullword.com/post.php is invalid. Now, I use the www.pullword.com/process.php. And support py3
+
 #Install
 ``` 
 pip install pullword 
