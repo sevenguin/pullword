@@ -11,7 +11,7 @@ setup(
                     Chinese text segmentation platform',
     license='MIT License',
     install_requires=['requests>=1.0.0'],
-    author='sevenguin',
+    author='binhe22',
     packages=find_packages(),
     platforms='any',
 )
